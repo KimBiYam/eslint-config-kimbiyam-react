@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['airbnb', 'airbnb/hooks', 'plugin:prettier/recommended'],
+  extends: ['airbnb', 'airbnb/hooks'],
   rules: {
     'no-use-before-define': 'off',
     'import/no-unresolved': 'off',

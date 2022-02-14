@@ -4,7 +4,8 @@
   "description": "ESLint config for react project",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "prettier.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,6 +30,7 @@
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
-    "@typescript-eslint/parser": "^5.8.1"
+    "@typescript-eslint/parser": "^5.8.1",
+    "prettier": "^2.5.1"
   }
 }
