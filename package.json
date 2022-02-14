@@ -6,7 +6,8 @@
   "files": [
     "index.js",
     "prettier.js",
-    "typescript.js"
+    "typescript.js",
+    ".prettierrc.json"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
