@@ -28,7 +28,7 @@ $ npx install-peerdeps --dev eslint-config-kimbiyam-react
 ```json
 {
   "extends": [
-    'eslint-config-kimbiyam-react',
+    "eslint-config-kimbiyam-react",
   ],
 }
 ```
@@ -37,8 +37,8 @@ $ npx install-peerdeps --dev eslint-config-kimbiyam-react
 ```json
 {
   "extends": [
-    'eslint-config-kimbiyam-react',
-    'eslint-config-kimbiyam-react/typescript',
+    "eslint-config-kimbiyam-react",
+    "eslint-config-kimbiyam-react/typescript",
   ],
 }
 ```
@@ -47,8 +47,8 @@ $ npx install-peerdeps --dev eslint-config-kimbiyam-react
 ```json
 {
   "extends": [
-    'eslint-config-kimbiyam-react',
-    'eslint-config-kimbiyam-react/prettier',
+    "eslint-config-kimbiyam-react",
+    "eslint-config-kimbiyam-react/prettier",
   ],
 }
 ```
