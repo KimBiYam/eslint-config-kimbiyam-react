@@ -7,7 +7,17 @@ ESLint configurations based on [airbnb rules](https://github.com/airbnb/javascri
 
 ## Installation
 
-Install `eslint-config-kimbiyam-react` with peer dependencies
+Install package
+
+```bash
+# npm
+$ npm install eslint-config-kimbiyam-react -D
+
+# yarn
+$ yarn add eslint-config-kimbiyam-react -D
+```
+
+Install peer dependencies
 
 
 ### Check and install peer dependencies
