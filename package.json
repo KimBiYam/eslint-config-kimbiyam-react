@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kimbiyam-react",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "ESLint config for react project",
   "main": "index.js",
   "files": [
