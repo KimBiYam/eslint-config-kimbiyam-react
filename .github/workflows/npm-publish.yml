@@ -25,7 +25,6 @@ jobs:
           path: ./
       - run: npm version patch
       - run: git push origin master --tags
-      - run: npm ci
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
