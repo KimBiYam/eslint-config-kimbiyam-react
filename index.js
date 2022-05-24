@@ -3,7 +3,6 @@ module.exports = {
   rules: {
     'no-use-before-define': 'off',
     'no-undef': 'off',
-    'no-unused-vars': 'off',
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
     'import/prefer-default-export': 'off',
