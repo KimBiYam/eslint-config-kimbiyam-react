@@ -3,6 +3,7 @@ module.exports = {
   rules: {
     'no-use-before-define': 'off',
     'no-undef': 'off',
+    'consistent-return': 'off',
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
     'import/prefer-default-export': 'off',
@@ -11,7 +12,7 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/function-component-definition': 'off',
     'react/jsx-props-no-spreading': 'off',
-    "react/require-default-props":'off',
+    'react/require-default-props': 'off',
     'react/jsx-filename-extension': [
       2,
       { extensions: ['.js', '.jsx', '.ts', '.tsx'] },
