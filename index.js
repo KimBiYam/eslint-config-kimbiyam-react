@@ -8,7 +8,6 @@ module.exports = {
     'import/extensions': 'off',
     'import/prefer-default-export': 'off',
     'prefer-regex-literals': 'off',
-    'react-hooks/exhaustive-deps': 'off',
     'react/react-in-jsx-scope': 'off',
     'react/prop-types':'off',
     'react/function-component-definition': 'off',
